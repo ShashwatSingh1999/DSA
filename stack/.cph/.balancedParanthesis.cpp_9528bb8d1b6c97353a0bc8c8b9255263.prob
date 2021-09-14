@@ -1,0 +1,1 @@
+{"name":"Local: balancedParanthesis","url":"c:\\Users\\HP\\OneDrive\\Desktop\\DSA\\stack\\balancedParanthesis.cpp","tests":[{"id":1631587676500,"input":"1\n(()()())","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\HP\\OneDrive\\Desktop\\DSA\\stack\\balancedParanthesis.cpp","group":"local","local":true}
